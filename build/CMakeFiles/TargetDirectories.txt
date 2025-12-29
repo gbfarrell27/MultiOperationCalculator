@@ -1,0 +1,3 @@
+D:/dev/Multi Operation Calculator/build/CMakeFiles/Calculator.dir
+D:/dev/Multi Operation Calculator/build/CMakeFiles/edit_cache.dir
+D:/dev/Multi Operation Calculator/build/CMakeFiles/rebuild_cache.dir
