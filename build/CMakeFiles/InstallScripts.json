@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"D:/dev/Multi Operation Calculator/build/cmake_install.cmake"
+		"D:/dev/MultiOperationCalculator/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

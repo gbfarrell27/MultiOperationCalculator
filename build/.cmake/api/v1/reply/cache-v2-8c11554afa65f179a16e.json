@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/dev/Multi Operation Calculator/build"
+			"value" : "d:/dev/MultiOperationCalculator/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -483,7 +483,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/dev/Multi Operation Calculator/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/dev/MultiOperationCalculator/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/dev/Multi Operation Calculator"
+			"value" : "D:/dev/MultiOperationCalculator"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -555,7 +555,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Multi Operation Calculator"
+			"value" : "C:/Program Files (x86)/MultiOperationCalculator"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/dev/Multi Operation Calculator/build"
+			"value" : "D:/dev/MultiOperationCalculator/build"
 		},
 		{
 			"name" : "Calculator_IS_TOP_LEVEL",
@@ -1215,10 +1215,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/dev/Multi Operation Calculator"
+			"value" : "D:/dev/MultiOperationCalculator"
 		},
 		{
-			"name" : "Multi Operation Calculator_BINARY_DIR",
+			"name" : "MultiOperationCalculator_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1227,10 +1227,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/dev/Multi Operation Calculator/build"
+			"value" : "D:/dev/MultiOperationCalculator/build"
 		},
 		{
-			"name" : "Multi Operation Calculator_IS_TOP_LEVEL",
+			"name" : "MultiOperationCalculator_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1242,7 +1242,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Multi Operation Calculator_SOURCE_DIR",
+			"name" : "MultiOperationCalculator_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1251,7 +1251,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/dev/Multi Operation Calculator"
+			"value" : "D:/dev/MultiOperationCalculator"
 		},
 		{
 			"name" : "VCPKG_APPLOCAL_DEPS",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/dev/Multi Operation Calculator/build/vcpkg_installed"
+			"value" : "D:/dev/MultiOperationCalculator/build/vcpkg_installed"
 		},
 		{
 			"name" : "VCPKG_INSTALL_OPTIONS",
@@ -1311,7 +1311,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/dev/Multi Operation Calculator"
+			"value" : "D:/dev/MultiOperationCalculator"
 		},
 		{
 			"name" : "VCPKG_MANIFEST_INSTALL",
@@ -1531,7 +1531,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/dev/Multi Operation Calculator/build/vcpkg_installed"
+			"value" : "D:/dev/MultiOperationCalculator/build/vcpkg_installed"
 		}
 	],
 	"kind" : "cache",
